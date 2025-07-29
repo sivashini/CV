@@ -8,6 +8,5 @@ This repository contains a simple, clean, and fully responsive **HTML-based resu
 
 - **HTML5** – For structure and content
 - **CSS3** – For styling and layout
-- *(No frameworks or external dependencies)*
 
 ---
